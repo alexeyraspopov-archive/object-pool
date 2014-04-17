@@ -1,0 +1,8 @@
+{
+  "name": "object-pool",
+  "version": "0.0.1",
+  "description": "Object pool",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Alexey Raspopov (https://github.com/alexeyraspopov)"
+}
