@@ -1,1 +1,5 @@
-// Write your awesome code here
+function Pool(factory){
+	// body...
+}
+
+module.exports = Pool;
